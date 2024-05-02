@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gzatti or GAbriel Kraemer Zatti
+- 👋 Hi, I’m @Gzatti or Gabriel Kraemer Zatti
 - 👀 I’m interested in learning more about the programming world and developing projects to enhance knowledge
 - 🌱 I’m currently learning CSS, JS, HTML
 - 📫 How to reach me at e-mail gzattiyt@gmail.com
